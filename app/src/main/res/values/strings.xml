@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">App Netflix</string>
+    <string name="titulo_serie">House of Cards</string>
+    <string name="temporada_episodio">S1:E2</string>
 </resources>
