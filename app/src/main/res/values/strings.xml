@@ -6,4 +6,6 @@
     <string name="descricao_ic_volume">menu volume</string>
     <string name="descricao_ic_estrela">menu avaliações</string>
     <string name="descricao_ic_conteudo">menu episódios</string>
+    <string name="tempo_decorrido">01:30</string>
+    <string name="tempo_restante">42:20</string>
 </resources>
