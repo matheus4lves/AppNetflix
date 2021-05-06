@@ -2,4 +2,8 @@
     <string name="app_name">App Netflix</string>
     <string name="titulo_serie">House of Cards</string>
     <string name="temporada_episodio">S1:E2</string>
+    <string name="descricao_ic_mensagem">menu mensagem</string>
+    <string name="descricao_ic_volume">menu volume</string>
+    <string name="descricao_ic_estrela">menu avaliações</string>
+    <string name="descricao_ic_conteudo">menu episódios</string>
 </resources>
