@@ -8,7 +8,7 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:background="@color/colorEpisodeBackground"
         tools:context=".MainActivity">
 
@@ -28,7 +28,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/temporada_episodio"
+            android:text="@string/tempo_decorrido"
             android:textColor="@android:color/darker_gray"
             app:layout_constraintStart_toStartOf="@+id/guideline3"
             app:layout_constraintTop_toBottomOf="@+id/imageView5" />
@@ -50,7 +50,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/temporada_episodio"
+            android:text="@string/tempo_restante"
             android:textColor="@android:color/darker_gray"
             app:layout_constraintEnd_toStartOf="@+id/guideline6"
             app:layout_constraintTop_toBottomOf="@+id/imageView5" />
@@ -150,6 +150,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
+            android:contentDescription="@string/descricao_btn_voltar"
             app:layout_constraintStart_toStartOf="@+id/guideline3"
             app:layout_constraintTop_toBottomOf="@+id/seekBar"
             app:srcCompat="@drawable/ic_voltar_48" />
@@ -159,6 +160,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
+            android:contentDescription="@string/descricao_btn_reproduzir"
             app:layout_constraintEnd_toStartOf="@+id/guideline5"
             app:layout_constraintStart_toStartOf="@+id/guideline4"
             app:layout_constraintTop_toBottomOf="@+id/seekBar"
@@ -169,6 +171,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
+            android:contentDescription="@string/descricao_btn_pausar"
             app:layout_constraintEnd_toStartOf="@+id/guideline6"
             app:layout_constraintTop_toBottomOf="@+id/seekBar"
             app:srcCompat="@drawable/ic_pause_48" />
