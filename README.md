@@ -1,6 +1,6 @@
 # App Netflix
 
-![The model Anna Bella](screenshots/house.jpg)
+![The main actor of the series House of Cards sitting on a throne.](screenshots/house.jpg)
 
 ## Table of contents
 
@@ -32,4 +32,4 @@ This app is one of the projects developed in the online course **Desenvolvimento
 
 ## License
 
-[![GitHub license](https://img.shields.io/github/license/matheus4lves/anna-bella?style=flat-square)](https://github.com/matheus4lves/anna-bella)
+[![GitHub license](https://img.shields.io/github/license/matheus4lves/AppNetflix?style=flat-square)](https://github.com/matheus4lves/AppNetflix)
